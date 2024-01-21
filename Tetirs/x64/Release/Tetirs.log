@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\ngh75\Desktop\Programming\SBS\CProject\Games\Tetirs\Tetirs\Main.cpp(574,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ngh75\Desktop\Programming\SBS\CProject\Games\Tetirs\Tetirs\Main.cpp(947,24): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  2 of 181 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tetirs.vcxproj -> C:\Users\ngh75\Desktop\Programming\SBS\CProject\Games\Tetirs\x64\Release\Tetirs.exe

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\ngh75\Desktop\Programming\Trunk1-main\Tetirs\Tetirs\Main.cpp(548,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ngh75\Desktop\Programming\Trunk1-main\Tetirs\Tetirs\Main.cpp(920,24): warning C4018: '>=': signed/unsigned mismatch
+  Tetirs.vcxproj -> C:\Users\ngh75\Desktop\Programming\Trunk1-main\Tetirs\x64\Debug\Tetirs.exe
